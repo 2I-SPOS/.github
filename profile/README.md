@@ -1,4 +1,3 @@
 <p align="center">
-  super vec
-  pinda je gay
+  <img src="https://i.kym-cdn.com/entries/icons/original/000/037/615/cover2.jpg">
 </p>
